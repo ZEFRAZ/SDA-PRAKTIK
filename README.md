@@ -10,11 +10,11 @@ Berikut adalah daftar pertemuan dan topik yang dibahas:
 
 | Pertemuan | Topik Pembelajaran      | Link |
 |-----------|------------------------|------|
-| 01        |  | [Lihat di sini](#) |
-| 02        |        | [Lihat di sini](#) |
-| 03        |  | [Lihat di sini](#) |
-| 04        |                    | [Lihat di sini](#) |
-| 05        |                    | [Lihat di sini](#) |
-| 06        |      | [Lihat di sini](#) |
-| 07        |             | [Lihat di sini](#) |
+| 01        |  | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-1) |
+| 02        |        | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-2) |
+| 03        |  | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-3) |
+| 04        |                    | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-4) |
+| 05        |                    | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-5) |
+| 06        |      | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-6) |
+| 07        |             | [Lihat di sini](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-7) |
 
