@@ -9,10 +9,10 @@ Klik link di bawah untuk mengakses materi pembelajaran dari setiap pertemuan.
 ## 📂 **Struktur Repository**
 | 📅 Pertemuan | 📖 Topik Pembelajaran         | 🔗 Link |
 |-------------|-----------------------------|---------|
-| 01          |      | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-1) |
-| 02          |             | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-2) |
-| 03          |       | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-3) |
-| 04          |                         | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-4) |
-| 05          |                         | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-5) |
-| 06          |           | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-6) |
-| 07          |                  | [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-7) |
+|       1          |      | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-1) |
+|       2          |             | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-2) |
+|       3          |       | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-3) |
+|       4          |                         | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-4) |
+|       5          |                         | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-5) |
+|       6          |           | [Lihat Materi](https://github.com/username/repository/tree/Pertemuan-6) |
+|       7          |                  | [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-7) |
