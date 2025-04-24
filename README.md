@@ -16,3 +16,4 @@ Klik link di bawah untuk mengakses materi pembelajaran dari setiap pertemuan.
 |       5     | Single Linked List                     | [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-5) |
 |       6     | Stack, Queue, Kombinasi (Stack & Queue)| [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-6) |
 |       7     | Array - Linked List, Double Linked List| [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-7) |
+|       8     | Array - Linked List, Double Linked List (UTS)| [Lihat Materi](https://github.com/ZEFRAZ/SDA-PRAKTIK/tree/Pertemuan-8) |
